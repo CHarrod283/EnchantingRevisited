@@ -1,0 +1,5 @@
+name: EnchantingRevisited
+version: '${version}'
+main: com.charrod.enchantingrevisited.EnchantingRevisited
+api-version: 1.18
+load: STARTUP
